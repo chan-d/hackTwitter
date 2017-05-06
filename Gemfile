@@ -25,6 +25,8 @@ gem 'jbuilder', '~> 2.5'
 
 # bootstrap
 gem 'bootstrap-sass', '~> 3.3.6'
+# angular templates
+gem 'angular-rails-templates'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
